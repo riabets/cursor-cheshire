@@ -4,4 +4,4 @@
 
 [ Homework 1 ](https://riabets.github.io/cursor-cheshire/homework01/index.html)
 
-![MarineGEO circle logo](./assets/images/puzzle-dynamic-premium.png "Puzzle")
+![Puzzle](./assets/images/puzzle-dynamic-premium.png "Puzzle")

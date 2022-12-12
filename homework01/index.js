@@ -13,7 +13,8 @@ let productOddOrEven = !(productSumFloor % 2);
 let productSellChange = 500 - productSum;
 let averagePrice = productSum / productsCombined.length;
 let averagePriceReduced = Number(averagePrice).toFixed(2);
-let productCDiscount = (productSum * 10) / 100;
+let randomProductDiscount = (Math.random() * 10).toFixed(2);
+let productCDiscount = (productSum * randomProductDiscount) / 100;
 let productCost = productSum / 2;
 let storeProfit = productSum - productCost - productCDiscount;
 
